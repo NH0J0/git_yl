@@ -1,7 +1,7 @@
-name = input('Ты че за чепух?')
-age = int(input('И хау мани тебе аге'))
+def main():
+	pass
 
-if age > 18:
-	print('Ты хренли в игрушки играешь, вали на завод')
-else:
-	print('Иди учи уроки, дэбил')
+
+if __name__ == '__main__':
+	main()
+
